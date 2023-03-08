@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 </h1>
+<h1 align="center"> Hi👋 </h1>
 
 <div id="header" align="center">
   <a href="https://visitcount.itsvg.in">
