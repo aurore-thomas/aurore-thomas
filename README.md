@@ -5,7 +5,6 @@
     <img src="https://visitcount.itsvg.in/api?id=aurore-thomas&label=Profile%20Views&color=6&icon=5&pretty=true"/>
   </a>
  </div>
- </br>
  
 ## About me :
 I'm a 22-years-old French student from La Plateforme_ in Marseille. I would like to become a Software Developer.
@@ -15,9 +14,9 @@ I'm teaching myself programming languages I don't use with school. Even if I'm a
 [LinkedIn](https://www.linkedin.com/in/aurore-thomas-laplateforme "My LinkedIn")
 [aurore.thomas@laplateforme.io](mailto:aurore.thomas@laplateforme.io "Send my an email")
 
-
 ## Skills : 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,mysql,linux,powershell,git,html,css,figma,flutter&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,ableton,ps,pr,figma)](https://skillicons.dev)
 
 See you soon ! 👋
 
