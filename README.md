@@ -11,7 +11,7 @@ I'm a 22-years-old French student from La Plateforme_ in Marseille. I would like
 I'm teaching myself programming languages I don't use with school. Even if I'm an independent person, I enjoy develop projects with a team. You can find some of my projects on this GitHub account.
   
  ## Contacts :
-[LinkedIn](https://www.linkedin.com/in/aurore-thomas-laplateforme "My LinkedIn")
+[LinkedIn](https://www.linkedin.com/in/aurore-thomas-laplateforme "My LinkedIn") </br>
 [aurore.thomas@laplateforme.io](mailto:aurore.thomas@laplateforme.io "Send my an email")
 
 ## Skills : 
