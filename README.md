@@ -15,8 +15,8 @@ I'm teaching myself programming languages I don't use with school. Even if I'm a
 [aurore.thomas@laplateforme.io](mailto:aurore.thomas@laplateforme.io "Send my an email")
 
 ## Skills : 
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,mysql,linux,powershell)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,py,mysql,linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,powershell)](https://skillicons.dev)
 
 See you soon ! 👋
 
