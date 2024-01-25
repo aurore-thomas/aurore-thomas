@@ -7,7 +7,7 @@
  </div>
  
 ## About me :
-I'm a 22-years-old French student from La Plateforme_ in Marseille.
+I'm a 23-years-old French student from La Plateforme_ in Marseille.
   
  ## Contacts :
 [LinkedIn](https://www.linkedin.com/in/aurore-thomas-laplateforme "My LinkedIn") </br>
