@@ -14,7 +14,7 @@ I'm a 23-years-old French student from La Plateforme_ in Marseille.
 [aurore.thomas@laplateforme.io](mailto:aurore.thomas@laplateforme.io "Send my an email")
 
 ## Skills : 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,py,mysql,linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,cpp,c,py,mysql,postgres,linux,git)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,powershell)](https://skillicons.dev)
 
 See you soon ! 👋
