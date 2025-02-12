@@ -1,13 +1,8 @@
 # Hi, I'm Aurore Thomas 👋 
  </br>
-<div id="header" align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=aurore-thomas&label=Profile%20Views&color=6&icon=5&pretty=true"/>
-  </a>
- </div>
  
 ## About me :
-I'm a 23-years-old French student from La Plateforme_ in Marseille.
+I'm a 24-years-old French student from La Plateforme_ in Marseille.
   
  ## Contacts :
 [LinkedIn](https://www.linkedin.com/in/aurore-thomas-laplateforme "My LinkedIn") </br>
