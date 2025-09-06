@@ -9,7 +9,7 @@ I'm a 24-years-old French student.
 [aurorethomas2001@live.fr](mailto:aurorethomas2001@live.fr "Send my an email")
 
 ## Skills : 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,cpp,c,py,mysql,postgres,linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,cpp,go,py,mysql,postgres,linux,git)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,powershell)](https://skillicons.dev)
 
 See you soon ! 👋
